@@ -24,11 +24,15 @@ It's really big aims. During this semester I was able to complete first two aims
 To test mixture model and poisson regression we generated data frame with 2*10^6 random variables from [0,1]. Then we sample observation and using data frame and observation fit new mixture. 
 Poisson regression:
 	- Accuracy: 10^{-3}.
+	
 	- Average working time: 7.5 sec.
+	
 	- Number of iterations: 19.
 
 Mixture model:
 	- Accuracy: 10^{-3}.  
+	
 	- Average working time: 24.7 sec.
+	
 	- Number of iterations: $9$.
 \end{itemize}
