@@ -21,4 +21,4 @@ It's really big aims. During this semester I was able to complete first two aims
 6) Created class for mixture with three states: zero-inflated and two poissons.
 
 ## Results
-To test mixture model we generated data frame with $2*10^6$ random variables from [0,1]. Then we sample observation and using data frame and observation fit new mixture. Fit convergence in 9 iteration and requires about 30 sec.
+To test mixture model we generated data frame with 2*10^6 random variables from [0,1]. Then we sample observation and using data frame and observation fit new mixture. Fit convergence in 9 iteration and requires about 30 sec.
